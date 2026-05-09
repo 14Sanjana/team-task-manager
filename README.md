@@ -357,3 +357,7 @@ The demo video demonstrates:
 # Conclusion
 
 This project demonstrates full-stack development concepts including frontend development, backend API creation, database integration, authentication, authorization, and task workflow management using modern web technologies.
+
+Note:
+The complete application runs successfully in the local development environment. Due to current cloud platform billing restrictions for backend database hosting, the frontend is deployed separately and the full working functionality is demonstrated in the attached demo video.
+
